@@ -1,0 +1,5 @@
+Rent Invoice for prakrit
+
+Kitta Numbers: 103
+Rental Duration: 2 months
+Total Rent: NPR 200000
